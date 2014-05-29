@@ -6,6 +6,7 @@
 (depends-on "multiple-cursors" "1.0.0")
 (depends-on "dash" "1.3.2")
 (depends-on "s" "1.0.0")
+(depends-on "makey" "0.3")
 (depends-on "yasnippet" "20130218")
 
 (development
